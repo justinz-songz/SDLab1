@@ -1,0 +1,1 @@
+in this assignement i learnt how to add my files from vs code onto github. i first had to connect my local repository and then commit my changes.
